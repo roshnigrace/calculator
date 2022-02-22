@@ -1,0 +1,31 @@
+
+.calc{
+    width: 432px;
+    height: 631px;
+    background-color: crimson;;
+    margin-top: 98px;
+    margin-left: 691px;
+    padding-left: 29px;
+    border: black 2px solid;
+}
+#screen{
+    border: black 2px solid;
+    padding-top: 53px;
+    padding-left: 194px;
+    margin-top: 47px;
+  
+
+}
+.btn{
+    padding: 15px;
+    width: 91px;
+    height: 61px;
+    margin-top: 29px;
+    color: black;
+    margin-left: 4px;
+    background-color: linen;
+}
+
+.btn:hover{
+    background-color: lightsalmon;
+}
